@@ -1,0 +1,15 @@
+{
+  "name": "javascrip-essential-functions",
+  "version": "1.0.0",
+  "description": "JEF (Javascrip-Essential-Functions) will help you code complex features more quickly with Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
